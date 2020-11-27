@@ -8,7 +8,6 @@
 #'
 NULL
 
-
 #' MSigDb v7.2
 #' Downloaded from the Broad Institute on November 2020
 #'
@@ -116,3 +115,15 @@ NULL
 #' @format list of regulons, each comprising one regulon with its RP
 NULL
 
+
+#' Gene annotation from the Human Protein Atlas
+#'
+#' Information on genes, e.g. description, protein class or chromosome. Useful
+#' for annotating Differential Gene Expression results
+#'
+#' @name hpa
+#' @docType data
+#' @author HCM
+#' @keywords data
+#'
+NULL
