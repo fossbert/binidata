@@ -125,5 +125,6 @@ NULL
 #' @docType data
 #' @author HCM
 #' @keywords data
+#' @format tibble
 #'
 NULL
