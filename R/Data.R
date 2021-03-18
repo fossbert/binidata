@@ -104,6 +104,16 @@ NULL
 #' @format list of lists: for 50 Hallmark gene sets, one list each comprising all founders
 NULL
 
+#' Functional categories of HALLMARK gene sets
+#' Derived from Liberzon, Cell Systems, 2015, PMID: 26771021
+#'
+#' @name hallmark_cat
+#' @docType data
+#' @author HCM
+#' @keywords data
+#'
+NULL
+
 
 #' ARACNe regulons derived from a) 242 CUMC pancreatic specimen (PanIN/IPMN/PDA) and b) 426 ICGC
 #' Canada PDA specimen (PDA primaries and metastasis)
@@ -148,3 +158,6 @@ NULL
 #' Likelihood are scaled weights from the NMF output.}
 #' }
 NULL
+
+
+
